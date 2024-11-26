@@ -1,16 +1,13 @@
-## Hi there 👋
+<h1 align="center">Hello ben 1Yuqas ¬_¬</h1>
+<p align="center"></p>
 
-<!--
-**1Yuqas/1Yuqas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div align="center">
+    <a href="https://discord.gg/rowrain"><img src="https://img.shields.io/discord/1193188455946133645?logo=discord" alt="Discord"/></a>
+    </div>
 
-Here are some ideas to get you started:
+# 
+    
+![](./profile-3d-contrib/profile-night-rainbow.svg)
+</picture>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
